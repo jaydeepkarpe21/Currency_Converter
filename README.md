@@ -1,0 +1,1 @@
+# Currency converter package helps you to easily convert any amount from specific currency to another one.
